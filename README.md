@@ -8,3 +8,4 @@ The most common misconception we get when people start this course is that we wi
 
 Over your career as a professional data scientist you're going to end up programming in languages and using modeling techniques that haven't even been invented yet. So, the most important thing we can (and we will) teach you is _how to learn_. While covering topics like Python, Statistics, and Regression, we'll work with you to build the skills required to read and understand error messages and to google for answers so once you get a job as a data scientist, when you have to learn a new language, library, or model, you'll know how to quickly get started. We'll also teach you your first set of tools so that you can contribute immediately using them as a professional data scientist.
 
+Hi!I made changes!!!
